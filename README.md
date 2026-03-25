@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
   
-  # 📊 Optimización de Flujo Vehicular: Troncal Caracas
+  # 📊 Optimización de Flujo Vehicular
   ### *Ciencia de Datos Aplicada a la Movilidad Urbana*
   
   [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
