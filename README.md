@@ -5,8 +5,6 @@
   ### *...*
   
   [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/tu_usuario?style=flat-square&logo=x&label=Seguir&color=000000)](https://x.com/tu_usuario)
-  [![Discord](https://img.shields.io/discord/tu_server_id?style=flat-square&logo=discord&logoColor=white&label=Comunidad&color=7289DA)](https://discord.gg/tu_invitacion)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu_perfil)
 
   [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
   [![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
