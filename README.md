@@ -11,9 +11,6 @@
 
   [![Hardware](https://img.shields.io/badge/MacBook_Air-M4_Chip-000000?style=flat-square&logo=apple&logoColor=white)](https://apple.com)
   [![OS](https://img.shields.io/badge/macOS-Sonoma-000000?style=flat-square&logo=macos&logoColor=white)](https://apple.com)
-  [![Location](https://img.shields.io/badge/City-Bogotá-red?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com)
-  [![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-blue.svg?style=flat-square)](https://github.com/)
 </div>
 
 ---
