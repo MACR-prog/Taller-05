@@ -29,7 +29,7 @@ Este proyecto ...
 | Categoría | Herramientas |
 | :--- | :--- |
 | **Lenguajes** | `Python`, `SQL` |
-| **Visualización** | `Power BI`, `Matplotlib`, `Seaborn` |
+| **Visualización** | `Power BI`, , `Grafana` |
 | **Entorno** | `Ubuntu Linux` |
 
 ---
