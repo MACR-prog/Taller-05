@@ -14,9 +14,16 @@
 
 ---
 
-## 📖 Descripción del Proyecto
+## Introducción
 Este proyecto utiliza técnicas de **Análisis Exploratorio de Datos (EDA)** y **Modelado Estadístico** para identificar cuellos de botella en el sistema de transporte masivo. El objetivo es proponer una distribución eficiente de frecuencias basada en la demanda histórica y el comportamiento del tráfico en tiempo real.
 
+---
+
+## Desarrollo
+
+zz...
+
+---
 > [!IMPORTANT]
 > Este repositorio forma parte de una investigación académica enfocada en la infraestructura logística de Bogotá.
 
