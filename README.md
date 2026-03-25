@@ -9,7 +9,7 @@
   [![Excel](https://img.shields.io/badge/Excel-Data_Cleaning-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/excel)
 
   [![Hardware](https://img.shields.io/badge/MacBook_Air-M4_Chip-000000?style=flat-square&logo=apple&logoColor=white)](https://apple.com)
-  [![OS](https://img.shields.io/badge/macOS-Sonoma-000000?style=flat-square&logo=macos&logoColor=white)](https://apple.com)
+  [![OS](https://img.shields.io/badge/OS-Linux_Kernel-FCC624?style=flat-square&logo=linux&logoColor=black)](https://kernel.org)
 </div>
 
 ---
@@ -28,7 +28,7 @@ Este proyecto utiliza técnicas de **Análisis Exploratorio de Datos (EDA)** y *
 | **Lenguajes** | `Python`, `SQL` |
 | **Análisis** | `Pandas`, `NumPy`, `SciPy` |
 | **Visualización** | `Power BI`, `Matplotlib`, `Seaborn` |
-| **Entorno** | `Jupyter Notebooks`, `macOS M4` |
+| **Entorno** | `Ubuntu Linux` |
 
 ---
 
