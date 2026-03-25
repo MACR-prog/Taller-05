@@ -30,10 +30,11 @@ Este proyecto ...
 | :--- | :--- |
 | **Lenguajes** | `Python`, `SQL` |
 | **Visualización** | `Power BI`, , `Grafana` |
+| **Bases de datos** | `Excel`, `InfluxDB`|
 | **Entorno** | `Ubuntu Linux` |
 
 ---
-> [!IMPORTANTE]
+> Etiqueta
 > ...
 
 ---
@@ -56,17 +57,8 @@ Este proyecto ...
 
 ---
 
-## 🚀 Estructura del Repositorio
-* `data/`: Datasets crudos y procesados.
-* `notebooks/`: Experimentos en Jupyter y limpieza de datos.
-* `src/`: Scripts de Python con lógica funcional y recursiva.
-* `reports/`: Dashboards exportados y figuras.
+## Subtitulo1
 
 ---
 
-## 📝 Instalación y Uso
-Para replicar el entorno de análisis, utiliza los siguientes comandos:
-
-```python
-# Clonar el repositorio
-git clone
+## Subtitulo2
