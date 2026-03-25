@@ -21,6 +21,13 @@ Este proyecto ...
 
 ---
 
+##Contenido del Repositorio
+
+> datos/: Archivos de Excel
+> Analisis/: Documentos de texto con las conclusiones y hallazgos
+> graficas/: Contenido Visual
+---
+
 ## Desarrollo
 
 ...
