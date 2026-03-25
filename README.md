@@ -8,7 +8,6 @@
   [![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
   [![Excel](https://img.shields.io/badge/Excel-Data_Cleaning-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/excel)
 
-  [![Hardware](https://img.shields.io/badge/MacBook_Air-M4_Chip-000000?style=flat-square&logo=apple&logoColor=white)](https://apple.com)
   [![OS](https://img.shields.io/badge/OS-Linux_Kernel-FCC624?style=flat-square&logo=linux&logoColor=black)](https://kernel.org)
   [![Distro](https://img.shields.io/badge/Distro-Ubuntu_22.04_LTS-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com)
 </div>
