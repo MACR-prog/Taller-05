@@ -4,9 +4,16 @@
   # 📊 Optimización de Flujo Vehicular: Troncal Caracas
   ### *Ciencia de Datos Aplicada a la Movilidad Urbana*
   
-  [![Python](https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-  [![Pandas](https://img.shields.io/badge/Pandas-2.0-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-  [![Status](https://img.shields.io/badge/Status-En%20Desarrollo-green?style=for-the-badge)](https://github.com/)
+  [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+  [![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+  [![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+  [![Excel](https://img.shields.io/badge/Excel-Data_Cleaning-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/excel)
+
+  [![Hardware](https://img.shields.io/badge/MacBook_Air-M4_Chip-000000?style=flat-square&logo=apple&logoColor=white)](https://apple.com)
+  [![OS](https://img.shields.io/badge/macOS-Sonoma-000000?style=flat-square&logo=macos&logoColor=white)](https://apple.com)
+  [![Location](https://img.shields.io/badge/City-Bogotá-red?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com)
+  [![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-blue.svg?style=flat-square)](https://github.com/)
 </div>
 
 ---
