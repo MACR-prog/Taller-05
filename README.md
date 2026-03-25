@@ -4,14 +4,14 @@
   # <H1> Titulo </H1>
   ### *...*
   
-  [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/tu_usuario?style=flat-square&logo=x&label=Seguir&color=000000)](https://x.com/tu_usuario)
-  [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-  [![Excel](https://img.shields.io/badge/Excel-Data_Analysis-217346?style=flat-square&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/excel)
-  
   [![InfluxDB](https://img.shields.io/badge/InfluxDB-TSDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)](https://www.influxdata.com/)
   [![Grafana](https://img.shields.io/badge/Grafana-Dashboard-F46800?style=flat-square&logo=grafana&logoColor=white)](https://grafana.com/)
   [![Power BI](https://img.shields.io/badge/Power_BI-Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
   [![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://kernel.org)
+
+  [![SQL](https://img.shields.io/badge/SQL-Querying-CC2927?style=flat-square&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+  [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+  [![Excel](https://img.shields.io/badge/Excel-Data_Analysis-217346?style=flat-square&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/excel)
 </div>
 
 ---
