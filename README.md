@@ -8,8 +8,6 @@
   [![Discord](https://img.shields.io/discord/tu_server_id?style=flat-square&logo=discord&logoColor=white&label=Comunidad&color=7289DA)](https://discord.gg/tu_invitacion)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu_perfil)
 
-  <br>
-
   [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
   [![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
   [![InfluxDB](https://img.shields.io/badge/InfluxDB-TSDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)](https://www.influxdata.com/)
