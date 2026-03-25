@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
   
-  # <H1> 📊 Optimización de Flujo Vehicular </H1>
-  ### *Ciencia de Datos Aplicada a la Movilidad Urbana*
+  # <H1> Titulo </H1>
+  ### *...*
   
   [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
   [![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
@@ -15,25 +15,24 @@
 ---
 
 ## Introducción
-Este proyecto utiliza técnicas de **Análisis Exploratorio de Datos (EDA)** y **Modelado Estadístico** para identificar cuellos de botella en el sistema de transporte masivo. El objetivo es proponer una distribución eficiente de frecuencias basada en la demanda histórica y el comportamiento del tráfico en tiempo real.
+Este proyecto ...
 
 ---
 
 ## Desarrollo
 
-zz...
+...
 
 ## 🛠️ Stack Tecnológico
 | Categoría | Herramientas |
 | :--- | :--- |
 | **Lenguajes** | `Python`, `SQL` |
-| **Análisis** | `Pandas`, `NumPy`, `SciPy` |
 | **Visualización** | `Power BI`, `Matplotlib`, `Seaborn` |
 | **Entorno** | `Ubuntu Linux` |
 
 ---
-> [!IMPORTANT]
-> Este repositorio forma parte de una investigación académica enfocada en la infraestructura logística de Bogotá.
+> [!IMPORTANTE]
+> ...
 
 ---
 
