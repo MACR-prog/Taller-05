@@ -22,7 +22,7 @@ Este proyecto ...
 ---
 
 ## Contenido del Repositorio
-
+>[!IMPORTANT]
 > 📁 Datos: Archivos de Excel
 ---
 > 📁 Analisis: Documentos de texto con las conclusiones y hallazgos
@@ -32,7 +32,7 @@ Este proyecto ...
 
 ## Desarrollo
 
-...
+Para el desarrollo de este proyecto se hizo uso de herranmientas
 
 ## 🛠️ Stack Tecnológico
 | Categoría | Herramientas |
