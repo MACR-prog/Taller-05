@@ -23,12 +23,6 @@ Este proyecto utiliza técnicas de **Análisis Exploratorio de Datos (EDA)** y *
 
 zz...
 
----
-> [!IMPORTANT]
-> Este repositorio forma parte de una investigación académica enfocada en la infraestructura logística de Bogotá.
-
----
-
 ## 🛠️ Stack Tecnológico
 | Categoría | Herramientas |
 | :--- | :--- |
@@ -36,6 +30,10 @@ zz...
 | **Análisis** | `Pandas`, `NumPy`, `SciPy` |
 | **Visualización** | `Power BI`, `Matplotlib`, `Seaborn` |
 | **Entorno** | `Ubuntu Linux` |
+
+---
+> [!IMPORTANT]
+> Este repositorio forma parte de una investigación académica enfocada en la infraestructura logística de Bogotá.
 
 ---
 
