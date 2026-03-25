@@ -1,112 +1,63 @@
 <div align="center">
-  <table width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  
+  # 📊 Optimización de Flujo Vehicular: Troncal Caracas
+  ### *Ciencia de Datos Aplicada a la Movilidad Urbana*
+  
+  [![Python](https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+  [![Pandas](https://img.shields.io/badge/Pandas-2.0-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+  [![Status](https://img.shields.io/badge/Status-En%20Desarrollo-green?style=for-the-badge)](https://github.com/)
+</div>
+
+---
+
+## 📖 Descripción del Proyecto
+Este proyecto utiliza técnicas de **Análisis Exploratorio de Datos (EDA)** y **Modelado Estadístico** para identificar cuellos de botella en el sistema de transporte masivo. El objetivo es proponer una distribución eficiente de frecuencias basada en la demanda histórica y el comportamiento del tráfico en tiempo real.
+
+> [!IMPORTANT]
+> Este repositorio forma parte de una investigación académica enfocada en la infraestructura logística de Bogotá.
+
+---
+
+## 🛠️ Stack Tecnológico
+| Categoría | Herramientas |
+| :--- | :--- |
+| **Lenguajes** | `Python`, `SQL` |
+| **Análisis** | `Pandas`, `NumPy`, `SciPy` |
+| **Visualización** | `Power BI`, `Matplotlib`, `Seaborn` |
+| **Entorno** | `Jupyter Notebooks`, `macOS M4` |
+
+---
+
+## 📈 Visualizaciones Clave
+<div align="center">
+  <table style="width:100%">
     <tr>
-      <td bgcolor="#0d1117" align="center">
-        <br>
-        <marquee behavior="scroll" direction="left" scrollamount="5">
-          <font color="#58a6ff">✨ PROCESAMIENTO ✨</font> &nbsp;&nbsp;&nbsp; 
-          <font color="#aff5b4">📊 ANALÍTICA 📊</font> &nbsp;&nbsp;&nbsp; 
-          <font color="#d2a8ff">🤖 MACHINE LEARNING 🤖</font> &nbsp;&nbsp;&nbsp;
-          <font color="#ffa657">📈 VISUALIZACIÓN 📈</font>
-        </marquee>
-        <h1 align="center">
-          <font size="7" color="#58a6ff">🧬</font> 
-          <font size="7" color="#f85149">P</font><font size="7" color="#f0883e">R</font><font size="7" color="#dbab09">O</font><font size="7" color="#3fb950">Y</font><font size="7" color="#238636">E</font><font size="7" color="#58a6ff">C</font><font size="7" color="#bc8cff">T</font><font size="7" color="#d2a8ff">O</font> 
-          <font size="7" color="#ffffff">DE</font> 
-          <font size="7" color="#58a6ff">D</font><font size="7" color="#3fb950">A</font><font size="7" color="#dbab09">T</font><font size="7" color="#f0883e">A</font> 
-          <font size="7" color="#f85149">S</font><font size="7" color="#bc8cff">C</font><font size="7" color="#58a6ff">I</font><font size="7" color="#3fb950">E</font><font size="7" color="#dbab09">N</font><font size="7" color="#f0883e">C</font><font size="7" color="#f85149">E</font>
-        </h1>
-        <p align="center">
-          <b><font color="#8b949e">Optimización, Modelado y Descubrimiento de Patrones</font></b>
-        </p>
-        <br>
+      <td width="50%">
+        <p align="center"><b>Distribución de Carga</b></p>
+        <img src="https://via.placeholder.com/400x250/222/fff?text=Histograma+de+Frecuencias" alt="Gráfico 1">
+      </td>
+      <td width="50%">
+        <p align="center"><b>Mapa de Calor de Tráfico</b></p>
+        <img src="https://via.placeholder.com/400x250/444/fff?text=Heatmap+Caracas+Ave" alt="Gráfico 2">
       </td>
     </tr>
   </table>
 </div>
 
-<br>
+---
 
-<div align="center">
-  <kbd>📂 <b>RECURSIVIDAD:</b> ACTIVADA</kbd> 
-  <kbd>🐍 <b>PYTHON:</b> 3.12</kbd> 
-  <kbd>⚡ <b>VELOCIDAD:</b> ALTA</kbd> 
-  <kbd>🌎 <b>UBICACIÓN:</b> BOGOTÁ</kbd>
-</div>
+## 🚀 Estructura del Repositorio
+* `data/`: Datasets crudos y procesados.
+* `notebooks/`: Experimentos en Jupyter y limpieza de datos.
+* `src/`: Scripts de Python con lógica funcional y recursiva.
+* `reports/`: Dashboards exportados y figuras.
 
-<hr>
+---
 
-<table border="0">
-  <tr>
-    <td width="10" bgcolor="#58a6ff"></td>
-    <td bgcolor="#161b22">
-      <h2 align="left"> &nbsp; 📝 Descripción del Proyecto</h2>
-      <p align="justify">
-        &nbsp; Este proyecto aplica técnicas avanzadas de <b>limpieza de datos</b> y <b>lógica funcional</b> para resolver problemas de gran escala. 
-        Se enfoca en la eficiencia algorítmica y la creación de dashboards interactivos que faciliten la toma de decisiones.
-      </p>
-    </td>
-  </tr>
-</table>
+## 📝 Instalación y Uso
+Para replicar el entorno de análisis, utiliza los siguientes comandos:
 
-<br>
-
-## 🛠️ Stack Tecnológico
-
-| Herramienta | Aplicación | Dominio |
-| :--- | :--- | :--- |
-| <font color="#3776AB"><b>Python</b></font> | Lógica y Modelado | <img src="https://progress-bar.dev/95/?color=3776AB" /> |
-| <font color="#F2C811"><b>Power BI</b></font> | Dashboards | <img src="https://progress-bar.dev/90/?color=F2C811" /> |
-| <font color="#150458"><b>Pandas/NumPy</b></font> | ETL y Análisis | <img src="https://progress-bar.dev/85/?color=150458" /> |
-| <font color="#00758F"><b>SQL</b></font> | Gestión de Datos | <img src="https://progress-bar.dev/80/?color=00758F" /> |
-
-<br>
-
-## 🧪 Metodología (Pipeline)
-
-> [!NOTE]
-> ### 🟦 Paso 1: Ingesta de Datos
-> Extracción de datos crudos y validación de tipos (Type Hinting).
-
-> [!IMPORTANT]
-> ### 🟨 Paso 2: Análisis Exploratorio (EDA)
-> Identificación de outliers y correlaciones estadísticas.
-
-> [!TIP]
-> ### 🟩 Paso 3: Modelado y Predicción
-> Entrenamiento de algoritmos de Machine Learning y optimización de hiperparámetros.
-
-<br>
-
-## 💡 Resultados Clave
-<div align="left">
-  <ul>
-    <li>🚀 <font color="#3fb950"><b>+25%</b></font> de precisión en las predicciones finales.</li>
-    <li>⏱️ <font color="#58a6ff"><b>-40%</b></font> en el tiempo de procesamiento de datos.</li>
-    <li>📊 Generación de <b>5 reportes automatizados</b> en tiempo real.</li>
-  </ul>
-</div>
-
-<br>
-
-<hr>
-<div align="center">
-  <marquee behavior="alternate" direction="up" height="30" scrollamount="1">
-    <h3>📬 ¡Conectemos!</h3>
-  </marquee>
-  
-  <br>
-  
-  <table border="0">
-    <tr>
-      <td bgcolor="#0077B5" align="center"><b>&nbsp; <a href="#"><font color="white">LINKEDIN</font></a> &nbsp;</b></td>
-      <td width="10"></td>
-      <td bgcolor="#333" align="center"><b>&nbsp; <a href="#"><font color="white">PORTFOLIO</font></a> &nbsp;</b></td>
-      <td width="10"></td>
-      <td bgcolor="#D14836" align="center"><b>&nbsp; <a href="#"><font color="white">EMAIL</font></a> &nbsp;</b></td>
-    </tr>
-  </table>
-  
-  <br>
-  <sub>Desarrollado con precisión matemática y pasión por los datos.</sub>
-</div>
+```python
+# Clonar el repositorio
+git clone
