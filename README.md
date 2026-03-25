@@ -4,12 +4,18 @@
   # <H1> Titulo </H1>
   ### *...*
   
-  [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-  [![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-  [![Excel](https://img.shields.io/badge/Excel-Data_Cleaning-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/excel)
+  [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/tu_usuario?style=flat-square&logo=x&label=Seguir&color=000000)](https://x.com/tu_usuario)
+  [![Discord](https://img.shields.io/discord/tu_server_id?style=flat-square&logo=discord&logoColor=white&label=Comunidad&color=7289DA)](https://discord.gg/tu_invitacion)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu_perfil)
 
-  [![OS](https://img.shields.io/badge/OS-Linux_Kernel-FCC624?style=flat-square&logo=linux&logoColor=black)](https://kernel.org)
-  [![Distro](https://img.shields.io/badge/Distro-Ubuntu_22.04_LTS-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com)
+  <br>
+
+  [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+  [![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+  [![InfluxDB](https://img.shields.io/badge/InfluxDB-TSDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)](https://www.influxdata.com/)
+  [![Grafana](https://img.shields.io/badge/Grafana-Dashboard-F46800?style=flat-square&logo=grafana&logoColor=white)](https://grafana.com/)
+  [![Power BI](https://img.shields.io/badge/Power_BI-Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+  [![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://kernel.org)
 </div>
 
 ---
