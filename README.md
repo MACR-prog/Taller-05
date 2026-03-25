@@ -14,7 +14,9 @@
 
 ---
 ## Introducción
-Este proyecto ...
+En este proyecto abarcaremos el tema de la depresión en los jovenes. El aumento de la prevalencia de este tipo de trastornos exige que empezemos a usar nuevas herramientas que sirvan para analizar y prevenir estos casos, superando metodos actuales. 
+
+Vamos a hacer una aplicación de la ciencia de datos para analizar la prevalencia de la depresión en los adolescentes. Utilizando datos demográficos y encuentas de salud mental, el objetivo será transformar registros estáticos (los hallados en los datos y encuestas) en un sistema de monitoreo en tiempo real. A través de la integración de Python, SQL y herramientas de visualización, esto nos permitirá identificar varios patrones que no se hayan analizado antes, correlacionar variables distintas y avisar alertas tempranas para las decisiones preventivas en cuanto a salud mental. 
 
 ---
 <br>
