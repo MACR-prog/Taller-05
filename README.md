@@ -23,11 +23,11 @@ Este proyecto ...
 
 ## Contenido del Repositorio
 
-> datos/: Archivos de Excel
+> 📁 Datos: Archivos de Excel
 ---
-> Analisis/: Documentos de texto con las conclusiones y hallazgos
+> 📁 Analisis: Documentos de texto con las conclusiones y hallazgos
 ---
-> graficas/: Contenido Visual
+> 📁 graficas: Contenido Visual
 ---
 
 ## Desarrollo
