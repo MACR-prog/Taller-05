@@ -26,7 +26,7 @@ Vamos a hacer una aplicación de la ciencia de datos para analizar la prevalenci
 
 > 📁 [Datos](https://github.com/MACR-prog/Taller-05/tree/main/Datos): Archivos de Excel e InfluxDB  
 ---
-> 📁 [Gráficas](https://github.com/MACR-prog/Taller-05/tree/main/graficas): Contenido visual  
+> 📁 [Gráficas](https://github.com/MACR-prog/Taller-05/tree/main/Graficas): Contenido visual  
 ---
 > 📁 [Análisis](https://github.com/MACR-prog/Taller-05/tree/main/Analisis): Documentos con conclusiones y hallazgos  
 ---
