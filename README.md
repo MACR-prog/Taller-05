@@ -24,11 +24,11 @@ Vamos a hacer una aplicación de la ciencia de datos para analizar la prevalenci
 ## Contenido del Repositorio
 <br>
 
-> 📁 Datos: Archivos de Excel
----
-> 📁 Analisis: Documentos de texto con las conclusiones y hallazgos
+> 📁 Datos: Archivos de Excel e Influxdb
 ---
 > 📁 graficas: Contenido Visual
+---
+> 📁 Analisis: Documentos de texto con las conclusiones y hallazgos
 ---
 <br>
 
