@@ -21,14 +21,14 @@ Vamos a hacer una aplicación de la ciencia de datos para analizar la prevalenci
 ---
 <br>
 
-## Contenido del Repositorio
+## 📂 Contenido del Repositorio
 <br>
 
-> 📁 Datos: Archivos de Excel e Influxdb
+> 📁 [Datos](https://github.com/MACR-prog/Taller-05/tree/main/Datos): Archivos de Excel e InfluxDB  
 ---
-> 📁 graficas: Contenido Visual
+> 📁 [Gráficas](https://github.com/MACR-prog/Taller-05/tree/main/graficas): Contenido visual  
 ---
-> 📁 Analisis: Documentos de texto con las conclusiones y hallazgos
+> 📁 [Análisis](https://github.com/MACR-prog/Taller-05/tree/main/Analisis): Documentos con conclusiones y hallazgos  
 ---
 <br>
 
