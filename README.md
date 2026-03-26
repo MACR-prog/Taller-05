@@ -71,16 +71,21 @@ Para la visualización y gráficas se utilizó Grafana y Power BI:
 <br>
 
 ## Visualizaciones Clave
+## Visualizaciones Clave
 <div align="center">
   <table style="width:100%">
     <tr>
-      <td width="50%">
+      <td width="33%">
         <p align="center"><b>Distribución de Depresión</b></p>
-        <img src="https://github.com/MACR-prog/Taller-05/raw/main/Distribucion.jpg" width="400">
+        <img src="https://raw.githubusercontent.com/MACR-prog/Taller-05/main/Distribucion.jpg" width="300">
       </td>
-      <td width="50%">
+      <td width="33%">
         <p align="center"><b>Mapa de Correlaciones</b></p>
-        <img src="https://github.com/MACR-prog/Taller-05/raw/main/heatmap.png" width="400">
+        <img src="https://raw.githubusercontent.com/MACR-prog/Taller-05/main/heatmap.png" width="300">
+      </td>
+      <td width="33%">
+        <p align="center"><b>Promedio depresión segun actividad física</b></p>
+        <img src="https://github.com/MACR-prog/Taller-05/blob/main/Promedio%20depresi%C3%B3n.jpg" width="300">
       </td>
     </tr>
   </table>
