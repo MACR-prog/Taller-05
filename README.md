@@ -48,7 +48,7 @@ La investigación comenzó con la recopilación de datos demográficos y encuest
 ![](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white) ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 *  **Base de Datos:** Se configuró un servidor en **Ubuntu Linux** para alojar a InfluxDB.
-*  **Fuente:** Se hizo uso de **SQL** para cargar las variables recolectadas y enlazarlas con la base de datos.
+*  **Procesos:** Se hizo uso de **SQL** para cargar las variables recolectadas y enlazarlas con la base de datos y grafana.
 
 ---
 
@@ -61,7 +61,7 @@ La investigación comenzó con la recopilación de datos demográficos y encuest
 ---
 
 ### 4. Visualización 
-![](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
 
 Para la visualización y gráficas se utilizó Grafana y Power BI:
 *  **Dashboards:** Paneles interactivos que muestran picos y tendencias con la depresión en los jóvenes.
