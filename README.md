@@ -70,17 +70,17 @@ Para la visualización y gráficas se utilizó Grafana:
 ---
 <br>
 
-##  Visualizaciones Clave
+## Visualizaciones Clave
 <div align="center">
   <table style="width:100%">
     <tr>
       <td width="50%">
-        <p align="center"><b>Grafico 1</b></p>
-        <img src="https://via.placeholder.com/400x250/222/fff?text=Histograma+de+Frecuencias" alt="Gráfico 1">
+        <p align="center"><b>Distribución de Depresión</b></p>
+        <img src="https://github.com/MACR-prog/Taller-05/raw/main/Distribucion.jpg" width="400">
       </td>
       <td width="50%">
-        <p align="center"><b>Grafico 2</b></p>
-        <img src="https://via.placeholder.com/400x250/444/fff?text=Heatmap+Caracas+Ave" alt="Gráfico 2">
+        <p align="center"><b>Mapa de Correlaciones</b></p>
+        <img src="https://github.com/MACR-prog/Taller-05/raw/main/heatmap.png" width="400">
       </td>
     </tr>
   </table>
