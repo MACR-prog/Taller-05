@@ -71,7 +71,6 @@ Para la visualización y gráficas se utilizó Grafana y Power BI:
 <br>
 
 ## Visualizaciones Clave
-## Visualizaciones Clave
 <div align="center">
   <table style="width:100%">
     <tr>
