@@ -60,10 +60,10 @@ La investigación comenzó con la recopilación de datos demográficos y encuest
 
 ---
 
-### 4. Monitoreo en Tiempo Real 
+### 4. Visualización 
 ![](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-Para una visualización en tiempo real se utilizó Grafana:
+Para la visualización y gráficas se utilizó Grafana:
 *  **Dashboards:** Paneles interactivos que muestran picos y tendencias con la depresión en los jóvenes.
 *  **Alertas:** Configuración de umbrales visuales para detectar grupos de riesgo en los datos analizados.
 
